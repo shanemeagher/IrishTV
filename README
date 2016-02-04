@@ -3,3 +3,6 @@ Fork of IrishTV addon (plugin.video.irishtv) written by Mossy.
 This is based on version 2.1.3 taken from https://code.google.com/archive/p/mossy-xbmc-repo/
 
 This fork is created to add support for .f4m urls on the RTE Player website
+
+F4M support is provided by Shani-08's addon "script.video.F4mProxy" which is available from Shani-08's repo which can be downloaded here:
+https://github.com/Shani-08/ShaniXBMCWork2/tree/master/zips/repository.shani
